@@ -1,0 +1,10 @@
+pyqt5
+pyqt5-tools
+pyqtgraph
+numpy
+pandas
+ipykernel
+matplotlib
+seaborn
+PyQtWebEngine
+plotly
